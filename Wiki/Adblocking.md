@@ -55,7 +55,7 @@ Only install one adblocker, using multiple adblockers can reduce their effective
 
 
 :::danger Chrome is disabling adblockers.
-Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other extensions will be ruined and won't work anymore. Once this happens it's best just to switch to Firefox or a Firefox based browser.
+Once Google introduces Manifiest V3, adblockers like uBlock Origin and many other extensions will be ruined and won't work anymore. Once this happens it's best just to switch to Firefox or a Firefox based browser. If you still want to stay on Chrome you can switch to uBlock Origin Lite, which works with manifest V3 but it is very ineffective.
 :::
 
 - ⭐ [uBlock Origin](https://ublockorigin.com/): [Enable these filters](https://i.ibb.co/jyN4k2f/327171428-f1925d65-963f-4bb8-aebf-d083ee5f9825.png)
