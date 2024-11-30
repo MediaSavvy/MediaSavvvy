@@ -10,14 +10,14 @@
 If you are streaming movies/tv shows and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions, with other awesome features.
 :::
 
+
+- ⭐ [Cineby](https://www.cineby.ru/): 1080p & lower / Extremely fast loading speeds / Good design / Multi server / Auto next 
+
 - ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
 - ⭐ [456movies](https://456movie.com/): 4K, 1080p & Lower / Good design / Multi server
 
 - ⭐ [Kipstream](https://kipstream.lol/): 1080p & lower / Fast loading speeds / Good design / Multi server
-
-
-- ⭐ [Cineby](https://www.cineby.ru/): 1080p & lower / Fast loading speeds / Good design / Multi server / Auto next 
 
 - ⭐ [Freek](https://freek.to) (Previously Binged): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
@@ -35,7 +35,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 - [RidoMovies](https://ridomovies.tv/): 1080p & Lower / Fast loading speeds / Good design / Single Server
 
--  [Streamflix](https://watch.streamflix.one/): Also has live TV / 1080p & Lower / Ok loading speeds / Good Design / Multi Server
+-  [Streamflix](https://watch.streamflix.one/): Also has live TV / 4K, 1080p & Lower / Ok loading speeds / Good Design / Multi Server
 
 
 - [CinemaUnlocked](https://cinemaunlocked.com/home/): 1080p and lower / Fast loading speeds / Good design.
