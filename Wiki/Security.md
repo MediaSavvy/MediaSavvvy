@@ -4,20 +4,27 @@
 
 ***
 
-### How to see if your files contain malware: 
+### File & URL scanning
 
-- [Virustotal](https://www.virustotal.com): Check files with over 50+ antiviruses, able to see the files behaviour and relations.
+- ⭐ [Virustotal](https://www.virustotal.com)
 
-- [Kaspersky Cloud](https://opentip.kaspersky.com/): Kaspersky Cloud allows you to check the safety of files. Unfortunetly lots of the advanced features require you to pay.
+- [Kaspersky Cloud](https://opentip.kaspersky.com/): Most features require you to pay.
 
-- [Hybrid Analysis](https://www.hybrid-analysis.com/): Similar to Virustotal
+- [Hybrid Analysis](https://www.hybrid-analysis.com/): Similar to Virustotal.
 
 ***
 
-### Best antiviruses for Windows: 
+### Antiviruses
+
 :::warning Note:
 Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Also remember to always scan setup / installation files with Virustotal, Kaspersky Cloud, Malwarebytes or Windows Defender.
 :::
+
+- [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou/)
+
+:::warning It's best to stick with the free version of Malwarebytes along side Windows Defender. This allows you to run accurate on-demand scans along side Windows Defenders great real-time protection without them conflicting with each other.
+
+- [BitDefender](http://www.bitdefender.com/solutions/free.html): Alternative to Windows Defender / Use the free trial version and when the trial is about to end, simply restart the trial with another account.
 
 ***
 
@@ -80,9 +87,6 @@ Download and run the following tools in this order. Run all tools unless otherwi
     Removes certain non-default browser settings
 
  
-
- 
-
 Optional, Advanced Step (only run if previous tools fail to solve problem):
 
 4) Run Sophos [HitmanPro](http://get.hitmanpro.com/)
@@ -141,11 +145,6 @@ The following tools will aid you in keeping your computer clean:
 
 **Free Anti-Virus Suggestions:**
 
-- [Malwarebytes  ⭐ ](https://www.malwarebytes.com/mwb-download/thankyou/) (Next-generation anti-virus replacement, free version must be run MANUALLY)
-
-- [BitDefender](http://www.bitdefender.com/solutions/free.html) (Use the free trial version and when the trial is about to end, simply restart the trial with another account)
-
-- [ESET Free Online Scanner](http://www.eset.com/us/online-scanner/)
 
 
 How to avoid malware:
