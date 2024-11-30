@@ -11,7 +11,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 :::
 
 
-- ⭐ [Cineby](https://www.cineby.ru/): 1080p & lower / Extremely fast loading speeds / Good design / Multi server / Auto next 
+- ⭐ [Cineby](https://www.cineby.ru/): 1080p & lower / Extremely fast loading speeds / Good design / Multi server / Auto next / Supports downloading
 
 - ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
@@ -23,11 +23,11 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 - ⭐ [PrimeFlix](https://primeflix-web.vercel.app/): 4K, 1080p & lower / Fast loading speeds / Good Design / Multi Server.
 
-- ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Allows you to download movies / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
+- ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 4K, 1080p & lower / Fast loading speeds / Supports downloading / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
 
 - ⭐ [NetPlay](https://netplayz.ru/): 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
 
-- ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design.
+- ⭐ [Rive](https://rivestream.live): 4K, 1080p & Lower / Fast loading speeds / Multi Server / Great design / Supports downloading in primary server only
 
 - ⭐ [Catflix](https://catflix.su/): 1080p & Lower / Fast loading speeds / Single Server / Awesome design.
 
