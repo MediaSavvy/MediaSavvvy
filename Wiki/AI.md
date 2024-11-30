@@ -37,7 +37,6 @@
 
 - [DuckDuckGo AI](https://duck.ai/): Multiple AI chatbots.
 
-- [AI Uncensored](https://www.aiuncensored.info/): Uncensored AI chatbot / Roleplay with characters (Note: most characters are NSFW)
 
 ## Learning:
 
