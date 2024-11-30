@@ -23,6 +23,7 @@ Antivirus software is usually bloatware. Stick to trusted sources for games and 
 - [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou/)
 
 :::warning It's best to stick with the free version of Malwarebytes along side Windows Defender. This allows you to run accurate on-demand scans along side Windows Defenders great real-time protection without them conflicting with each other.
+:::
 
 - [BitDefender](http://www.bitdefender.com/solutions/free.html): Alternative to Windows Defender / Use the free trial version and when the trial is about to end, simply restart the trial with another account.
 
