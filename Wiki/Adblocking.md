@@ -13,7 +13,7 @@
 
 ***
 
-### Adblockers for Android:
+### Android Adblocking
 
 - ⭐ [AdGuard Premium](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=adguard&sf=titleonly): System-wide adblocker.
 
@@ -34,7 +34,7 @@
 
 ***
 
-### Adblocking for iOS:
+### iOS Adblocking
 
 - ↪️ [System-wide adblocking guide](https://rentry.co/system-wide-adblocking-for-ios): A guide made by MediaSavvy that explains how you can block most ads system-wide on iOS & iPadOS.
 
@@ -47,7 +47,7 @@
 
 ***
 
-### Adblockers for browsers (PC): 
+### Browser Adblocking
 
 :::warning Note:
 Only install one adblocker, using multiple adblockers can reduce their effectiveness and trigger anti-adblock. Using extensions like Sponsorblock is still fine.
@@ -59,6 +59,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 :::
 
 - ⭐ [uBlock Origin](https://ublockorigin.com/): [Enable these filters](https://i.ibb.co/jyN4k2f/327171428-f1925d65-963f-4bb8-aebf-d083ee5f9825.png)
+- 
 - ⭐ [SponsorBlock](https://sponsor.ajay.app/): Skip sponsored Youtube ads.
 
 - ⭐ [OpenVideo](https://openvideofs.github.io/): Play videos in an ad-free player.
@@ -99,7 +100,9 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - ⭐ [Wallabag](https://wallabag.org/): Save articles and read them later offline.
 
-## Extensions (Firefox & Chromium compatible)
+## Extensions
+
+### Extensions: Firefox and Chromium compatible
 
 - ⭐ [Violentmonkey](https://violentmonkey.github.io/): Run userscripts
 
@@ -131,7 +134,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [Allow right click](https://add0n.com/allow-right-click.html): Force allow right clicking on websites that don't allow it.
 
-## Firefox Only Extensions:
+### Firefox Exclusive
 
 - ⭐ [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/extensions/): Firefox addons.
 
@@ -143,7 +146,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [Firefox Color](https://color.firefox.com/): Make custom themes for Firefox.
 
-## Chrome Only Extensions:
+### Chromium Exclusive
 
 - ⭐ [Foxified](https://foxified.org/): Use Firefox extensions in Chrome.
 
