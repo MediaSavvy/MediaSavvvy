@@ -3,23 +3,29 @@
 
 ## AI Chatbots
 
-- ⭐ [ChatGPT](https://chat.openai.com): GPT-4o chatbot.
+### AI Search Bots:
 
 - ⭐ [Wrtn](https://wrtn.ai/): Free GPT 4o chatbot and search / Ask for English
 
 - ⭐ [Perplexity](https://www.perplexity.ai/): GPT 4o powered search and chatbot. Great for research.
 
-- ⭐ [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot.
-
 - ⭐ [Microsoft Copilot](https://copilot.microsoft.com/): Free GPT-4o powered search and chatbot / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+
+- ⭐ [You](https://you.com/): AI Search engine and chatbot.
+
+-  [Phind](https://www.phind.com/)
+
+### Roleplaying
 
 - ⭐ [FlowGPT](https://flowgpt.com/chat): Roleplaying chatbots.
 
 - ⭐ [Character.AI](https://character.ai/): Roleplaying chatbots.
 
-- ⭐ [You](https://you.com/): AI Search engine and chatbot. 
+### Chatbots
 
-- ⭐ [Call Annie](https://callannie.ai/): GPT-3.5 powered chatbot with real-time voice and video calls.
+- ⭐ [ChatGPT](https://chat.openai.com): GPT-4o chatbot.
+
+- ⭐ [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot.
 
 - [Meta AI](https://www.meta.ai/): Metas chatbot, Llama 3.2.
 
@@ -27,15 +33,20 @@
 
 - [LMSYS](https://chat.lmsys.org/): GPT-4o and other chatbots.
 
-- [Replika](https://www.replika.ai): AI Companion.
-
 - [Pi](https://pi.ai/talk): An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
-
-- [Ora](https://ora.ai/start): GPT-3.5 Chatbots.
 
 - [Poe](https://www.poe.com): Multiple chatbots in one app, multiple image generation models for free (e.g stable diffusion)
 
 - [DuckDuckGo AI](https://duck.ai/): Multiple AI chatbots.
+
+
+### AI Companions
+
+- ⭐ [Call Annie](https://callannie.ai/): GPT-3.5 powered chatbot with real-time voice and video calls.
+
+- ⭐ [Replika](https://www.replika.ai): AI Companion.
+
+
 
 
 ## Learning:
