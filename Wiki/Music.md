@@ -1,5 +1,4 @@
 # 🎵 Music
-### A list of apps/websites that allow you to listen to music for free with no subscription.
 
 ***
 
