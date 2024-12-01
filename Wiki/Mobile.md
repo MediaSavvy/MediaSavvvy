@@ -118,7 +118,7 @@ Make sure to get a VPN before torrenting
 
 - [ProtonVPN](https://protonvpn.com/download-ios): Free VPN.
 
-- [Proton Mail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905):** Encrypted Emailing Service
+- [Proton Mail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905): Encrypted Emailing Service
 
 ***
 
