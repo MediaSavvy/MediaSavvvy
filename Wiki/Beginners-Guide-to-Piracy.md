@@ -1,5 +1,4 @@
 # 🚀 Beginners guide to piracy (Currently being updated!)
-### The basics of pirating and how to stay safe and more.
 
 ## What you need to know:
 
