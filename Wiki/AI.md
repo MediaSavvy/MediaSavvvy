@@ -1,5 +1,4 @@
 # 🤖 Artificial Intelligence
-### Chatbots, AI Tools, Image Generation, Video Generation etc.
 
 ## AI Chatbots
 
