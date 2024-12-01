@@ -99,13 +99,14 @@
 
 ## Audio Generation:
 
-- ⭐ [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Text to Music.
-
-- ⭐ [Riffusion](https://www.riffusion.com/): Text to Music.
 
 - ⭐ [Suno](https://suno.com/): Text to music.
 
+- ⭐ [Riffusion](https://www.riffusion.com/): Text to Music.
+
 - [Wolframe Tunes](https://tones.wolfram.com/)
+
+- [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Text to Music.
 
 
 
