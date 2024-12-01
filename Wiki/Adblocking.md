@@ -59,7 +59,7 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 :::
 
 - ⭐ [uBlock Origin](https://ublockorigin.com/): [Enable these filters](https://i.ibb.co/jyN4k2f/327171428-f1925d65-963f-4bb8-aebf-d083ee5f9825.png)
-- 
+
 - ⭐ [SponsorBlock](https://sponsor.ajay.app/): Skip sponsored Youtube ads.
 
 - ⭐ [OpenVideo](https://openvideofs.github.io/): Play videos in an ad-free player.
