@@ -1,8 +1,10 @@
-# 🎮 Games / Repacks
+# 🎮 Games / Repacks / Emulation
 
 ***
 
-### Games for Windows:
+## Downloading Games
+
+### Windows Games
 
 - ⭐ [SteamRIP](https://steamrip.com/): Password: 1234 or steamrip.com / Pre installed games.
 
@@ -28,21 +30,20 @@
 
 - ⭐ [FitGirl Repacks](https://www.fitgirl-repacks.site)
 
-- ⭐ [DODI Repacks](https://dodi-repacks.site/)
-
 - ⭐ [KaosKrew](https://www.kaoskrew.org/)
 
-- [Gnarly Repacks](https://rentry.org/gnarly_repacks)
+- ⭐ [Gnarly Repacks](https://rentry.org/gnarly_repacks)
 
 - [M4CKD0GE](https://m4ckd0ge-repacks.site/)
 
 - [Tiny Repacks](https://www.tiny-repacks.win/)
 
-***
+- [DODI Repacks](https://dodi-repacks.site/): [Bypass lootlink](https://rentry.co/lootlink)
 
-### Games for Android:
 
-- ⭐ [Mobilism](https://forum.mobilism.org/viewforum.php?f=398): Books / Games / Apps / [App](https://forum.mobilism.org/app/)
+### Android Games
+
+- ⭐ [Mobilism](https://forum.mobilism.org/viewforum.php?f=398): Books, Games & Apps / [App](https://forum.mobilism.org/app/)
 
 - ⭐ [PDAlife](https://pdalife.com): [App](https://pdalife.com/pdalife-app-android-a40597.html)
 
@@ -65,9 +66,7 @@
 - [4PDA](https://4pda.to/forum/): Use a translator.
 
 
-***
-
-### Games for iOS and iPadOS:
+### iOS & iPadOS Games
 
 - ⭐ [IPALibrary](https://www.ipalibrary.me)
 
@@ -83,13 +82,27 @@
 
 - [AppCake](https://www.iphonecake.com/): Has little games and apps for iPads.
 
-
-***
-
-### Games for Mac:
-
+### Mac Games
 
 - ⭐ [Torrminatorr](https://forum.torrminatorr.com/)
+
+## Emulation
+
+:::warning Since emulator programs and emulation in general has already been covered by many sources online in detail, it is unnecessary for MediaSavvy to cover them, insteaad those sources will be listed here.
+:::
+
+- 🌐 [Emulation General Wiki](https://emulation.gametechwiki.com/): Downloading emulators & general emulation guides.
+
+- 🌐 [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators): Downloading emulators.
+
+- 🌐 [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) & [Multi-System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)
+
+- 🌐 [Multiplayer Tools](https://emulation.gametechwiki.com/index.php/Frontends)
+
+- ⭐ [RetroAchievements](https://retroachievements.org/): Achievements for emulators.
+
+[More being added]
+
 
 
 
