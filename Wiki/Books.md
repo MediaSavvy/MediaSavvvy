@@ -1,5 +1,4 @@
 # 📚 Books / Comics / Audiobooks
-### Books / Comics / Audiobooks
 
 ## Ebooks:
 
