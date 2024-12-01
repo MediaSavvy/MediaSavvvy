@@ -1,5 +1,4 @@
 # 🔒 Privacy (Update in progress...)
-### Privacy tools, resources and more.
 
 ***
 
