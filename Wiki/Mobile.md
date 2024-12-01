@@ -1,5 +1,4 @@
 # 📱 Mobile (Currently being updated...)
-### Useful tools and resources for Android and iOS
 
 ## Android APKS:
 - ⭐ [App Manager](https://github.com/MuntashirAkon/AppManager/): Package manager with useful features.
