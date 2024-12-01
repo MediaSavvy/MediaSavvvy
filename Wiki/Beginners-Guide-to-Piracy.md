@@ -5,18 +5,17 @@
 
 - Read the FAQ about piracy below.
 
-- If you are torrenting be sure to use a VPN to not get DMCA letters from your ISP. We recommend a paid VPN for torrenting such as Mullvad or ProtonVPN. If you want to use a free VPN you can use Cloudflare WARP or RiseUP VPN. Note: WARP has a 1GB limit. We'll be making a guide on how to do this soon. Also make sure you use a good Bittorent client. DO NOT use any torrent client that is listed on the [unsafe programs and websites list!](https://mediasavvy.pages.dev/Wiki/UnsafeSites). We recommend using qBittorent. If you are downloading a program or game make sure to scan it with VirusTotal (www.virustotal.com) and scan all the .exe or .apk or .dmg files for malware. Note: if an antivirus detects anything along the lines of hack tool, patcher, crack or anything similar to that its most likely a false positive. Also make sure that you look at popular antiviruses and not once you've never heard of before to minimize false positives.
+- If you are torrenting be sure to use a VPN to avoid DMCA letters from your ISP. MediaSavvy recommends a paid VPN for torrenting such as Mullvad or ProtonVPN. If you want to use a free VPN you can use Cloudflare WARP or RiseUP VPN, although not recommended. Make sure to [bind your VPN](https://www.reddit.com/r/VPNTorrents/comments/ssy8vv/guide_bind_vpn_network_interface_to_torrent/) to your torrent client!
 
-:::danger Note: If you are a new pirate we do not recommend you torrenting (unless you are sure you know what you are doing), it's risky and more of a hastle if you do not know what you are doing, we will be making a very good guide about torrenting soon.
-:::
+- Use a good torrent client, MediaSavvy recommends [qBittorent](https://www.qbittorrent.org/). [Here](https://mediasavvy.pages.dev/Wiki/Torrenting.html#torrent-clients) are some other options. Avoid the torrent clients listed on the [unsafe programs and websites list.](https://mediasavvy.pages.dev/Wiki/UnsafeSites).
 
-- If you are going to use direct downloads which we HIGHLY recommend for beginners then first things first, make sure that you have an [adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking.html) and the [Fastforward](https://github.com/FastForwardTeam/FastForward) or any other redirect bypass extension to bypass annoying redirects! Next browse this wiki's catelogue and once you found a website to stream or download from go to the website and do what you want to do. If you are downloading a program or game make sure to scan it with VirusTotal (www.virustotal.com) and scan all the .exe or .apk or .dmg files to scan for malware. 
+- Scan downloaded files with [Virustotal](https://virustotal.com) for malware. Note: if an antivirus detects anything along the lines of hack tool, patcher, crack or anything similar it's most likely a false positive. Make sure you view the detections of good antiviruses (Bitdefender, Microsoft, Maalwarebytes, Kaspersky etc), not ones you have never heard of before, to minimize false positives.
 
-Note: if any antivirus shows something along the lines of hacking tool, patcher, crack or anything similar to that its most likely a false positive. Also make sure that you look at popular antiviruses and not once you've never heard of before to minimize false positives.
+- Make sure that you have an [adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking.html) and [a redirect extension](https://mediasavvy.pages.dev/Wiki/Adblocking.html#redirect-bypassers) to bypass annoying waiting times.
 
-- SCAN ALL EXECUTABLE FILES WITH VIRUSTOTAL to scan for malware. Only use trusted websites from this wiki. Also make sure to check this wiki often to make sure that a site you use hasn't been caught with malware.
+- Only use trusted websites from this wiki.
 
-- If you are streaming movies/tv shows and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions. 
+- If you are streaming and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions. 
 
 ## 🗣️ Frequently Asked Questions about piracy:
 
@@ -32,12 +31,12 @@ Note: if any antivirus shows something along the lines of hacking tool, patcher,
 5. Finally, use your common sense.
 :::
 
-::: details I don't know what *insert word* means?
+::: details I don't know what *insert piracy related word* means?
 Check out FMHY's [piracy glossary](https://mediasavvy.pages.dev/Wiki/PiracyGlossary).
 :::
 
 ::: details How can I download Adobe products?
-You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) (make sure to use a VPN when downloading from M0nkrus because they are torrents! Also make sure that you DO NOT download collections as they have been accused of having malware on multiple occasions, stick to individual packages) or crack them yourself using the guides [here](https://www.reddit.com/r/GenP/wiki/index/) (no need for a VPN).
+You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) (make sure to use a VPN when downloading from M0nkrus since they are torrents! Also make sure that you DO NOT download collections as they have been accused of having malware on multiple occasions, stick to individual packages) or crack them yourself using the guides [here](https://www.reddit.com/r/GenP/wiki/index/) (no need for a VPN).
 :::
 
 ::: details What antivirus should I use?
