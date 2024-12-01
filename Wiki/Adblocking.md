@@ -17,7 +17,7 @@
 
 - ⭐ [AdGuard Premium](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=adguard&sf=titleonly): System-wide adblocker.
 
-::: danger Note:
+::: warning Note:
 - For Adguard to block ads better you need to edit some of the setting. To do this go to `Settings > Filtering > Filters` and enable all of the Ad filters, the first 6 privacy filters, all of the annoyance filters and if you want enable some language-specific filters. 
 - Don't enable HTTPS filtering, it stops some sites from loading.
 :::
