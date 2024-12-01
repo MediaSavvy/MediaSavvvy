@@ -3,16 +3,6 @@
 
 ## Adblocking
 
-### Adblock testers:
-
-- ⭐ [CanYouBlockIt](https://canyoublockit.com/): Manual adblock tester.
-
-- [ADBlockTester](https://adblock-tester.com/): Automatic adblock tester.
-
-- [D3ward](https://d3ward.github.io/toolz/adblock.html): Automatic adblock tester.
-
-***
-
 ### Android Adblocking
 
 - ⭐ [AdGuard Premium](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=adguard&sf=titleonly): System-wide adblocker.
@@ -63,13 +53,29 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
-### Adblocking Filter Lists
+***
 
-- ⭐ [Yokoffings Recommended Filters](https://github.com/yokoffing/filterlists)
+## Adblocking Filter Lists
 
 - ⭐ [Legitimate URL Shortner](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
+ 
+- [Yokoffings Recommended Filters](https://github.com/yokoffing/filterlists)
 
 - [FilterLists](https://filterlists.com/): A database with a huge list of filter lists (some good, some bad).
+
+***
+
+## Test your adblockers
+
+- ⭐ [CanYouBlockIt](https://canyoublockit.com/): Manual adblock tester.
+
+- ⭐ [D3ward](https://d3ward.github.io/toolz/adblock.html): Automatic adblock tester.
+
+- [ADBlockTester](https://adblock-tester.com/): Automatic adblock tester.
+
+
+***
+
 
 ## Bypassers
 
