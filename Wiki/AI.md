@@ -25,17 +25,19 @@
 
 - ⭐ [ChatGPT](https://chat.openai.com): GPT-4o chatbot.
 
-- ⭐ [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot.
+- ⭐ [Claude](https://www.anthropic.com/product): Anthropic's AI chatbot / Phone number required.
+
+- ⭐ [LMSYS](https://chat.lmsys.org/): GPT-4o and other chatbots.
+
+- ⭐ [Mistral](https://chat.mistral.ai/chat): Multiple chatbots / Account required.
 
 - [Meta AI](https://www.meta.ai/): Metas chatbot, Llama 3.2.
 
 - [Gemini](https://Gemini.google.com/): Google's chatbot.
 
-- [LMSYS](https://chat.lmsys.org/): GPT-4o and other chatbots.
-
 - [Pi](https://pi.ai/talk): An excellent AI assistant that you can have conversations with, vent with, help you with work etc.
 
-- [Poe](https://www.poe.com): Multiple chatbots in one app, multiple image generation models for free (e.g stable diffusion)
+- [Poe](https://www.poe.com): Multiple chatbots, image generation bots, roleplaying bots.
 
 - [DuckDuckGo AI](https://duck.ai/): Multiple AI chatbots.
 
