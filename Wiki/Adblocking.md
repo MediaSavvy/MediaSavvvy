@@ -53,8 +53,6 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
-***
-
 ## Adblocking Filter Lists
 
 - ⭐ [Legitimate URL Shortner](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
@@ -63,8 +61,6 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 
 - [FilterLists](https://filterlists.com/): A database with a huge list of filter lists (some good, some bad).
 
-***
-
 ## Test your adblockers
 
 - ⭐ [CanYouBlockIt](https://canyoublockit.com/): Manual adblock tester.
@@ -72,10 +68,6 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 - ⭐ [D3ward](https://d3ward.github.io/toolz/adblock.html): Automatic adblock tester.
 
 - [ADBlockTester](https://adblock-tester.com/): Automatic adblock tester.
-
-
-***
-
 
 ## Bypassers
 
@@ -100,8 +92,6 @@ Once Google introduces Manifiest V3, adblockers like uBlock Origin and many othe
 - ⭐ [Freedium](https://freedium.cfd/), [ReadMedium](https://freedium.cfd/): Bypass Medium paywalls.
 
 - ⭐ [Wallabag](https://wallabag.org/): Save articles and read them later offline.
-
-***
 
 ## Extensions
 
