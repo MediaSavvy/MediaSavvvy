@@ -24,7 +24,7 @@
 
 - ⭐ [AdAway](https://www.adaway.org): Open-source system-wide adblocker.
 
-- ⭐ uBlock Origin: [Firefox Mobile](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Kiwi Browser & Other Chromium browsers that support extentions](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / Adblockers for browsers (not system-wide)
+- ⭐ uBlock Origin: [Firefox Mobile](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Kiwi Browser & Other Chromium browsers that support extensions](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / Adblocker for browsers (not system-wide)
 
 - ⭐ [RethinkDNS](https://rethinkdns.com/app): DNS service, with an app (Android). Has many filters to choose from, including adblocking filters / [Blocklists](https://rethinkdns.com/app#blocklists) (If you're using the app, configure the blocklists from there instead).
 
