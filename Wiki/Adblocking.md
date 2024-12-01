@@ -1,5 +1,4 @@
 # 🧩 Adblocking / Extensions / Bypassers
-###  Adblocking, extensions, redirect and paywall bypassers.
 
 ## Adblocking
 
