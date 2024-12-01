@@ -63,19 +63,24 @@
 
 - [LiteAPKS](https://liteapks.com): [Note](https://pastebin.com/3ebTvx0b) / [App](https://liteapks.com/app.html)
 
-- [4PDA](https://4pda.to/forum/): [App](https://github.com/slartus/4pdaClient-plus) / [Use a translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [CAPTCHA Guide](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html?m=1)
+- [4PDA](https://4pda.to/forum/): Use a translator.
 
 
 ***
 
 ### Games for iOS and iPadOS:
+
 - ⭐ [IPALibrary](https://www.ipalibrary.me)
 
-- [iOSHaven](https://ioshaven.com/apps)
+- ⭐ PDALife: [Apps](https://pdalife.com/ios/programmy/) & [Games](https://pdalife.com/ios/games)
 
+- [CyPwn](https://ipa.cypwn.xyz/): Not much games, mainly apps.
 
-- [iOSGods](https://app.iosgods.com/)
+- [4PDA](https://4pda.to/forum/): Use a translator.
 
+- [Mobilism iOS section](https://forum.mobilism.org/viewforum.php?f=312)
+
+- [Starfiles](https://starfiles.co/): App library.
 
 - [AppCake](https://www.iphonecake.com/): Has little games and apps for iPads.
 
