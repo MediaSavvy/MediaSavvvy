@@ -86,7 +86,9 @@
 
 - ⭐ [Ask your PDF](https://askyourpdf.com/): Turn books into chatbots.
 
-- ⭐ [Wolframe Alpha](https://www.wolframalpha.com/): AI searchable knowledge base.
+- ⭐ [Wolframe Alpha](https://www.wolframalpha.com/): Searchable knowledge base.
+
+- ⭐ [Remove.bg](https://www.remove.bg/): Backround remover.
 
  - [Pixian AI](https://pixian.ai/): Background remover.
 
