@@ -1,5 +1,4 @@
-# 💻Hacking Tools (Major updates in progress...)
-### Tools used for hacking.
+# 💻Hacking Tools (Major updates in progress..)
 
 ***
 
