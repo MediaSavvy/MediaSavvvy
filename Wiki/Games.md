@@ -86,22 +86,52 @@
 
 - ⭐ [Torrminatorr](https://forum.torrminatorr.com/)
 
-## Emulation
+## Emulation 
 
 :::warning Since emulator programs and emulation in general has already been covered by many sources online in detail, it is unnecessary for MediaSavvy to cover them, insteaad those sources will be listed here.
 :::
 
-- 🌐 [Emulation General Wiki](https://emulation.gametechwiki.com/): Downloading emulators & general emulation guides.
+### Emulators & Tools
 
-- 🌐 [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators): Downloading emulators.
+- 🌐 [Emulation General Wiki](https://emulation.gametechwiki.com/): Emulator index & general emulation guides.
 
-- 🌐 [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) & [Multi-System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)
+- 🌐 [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators): Emulator index.
 
-- 🌐 [Multiplayer Tools](https://emulation.gametechwiki.com/index.php/Frontends)
+- 🌐 [Frontends](https://emulation.gametechwiki.com/index.php/Frontends): Frontends are programs that address a quality-of-life issue that emulators may not fulfill.
+
+- 🌐 [Multi-System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators): Multi-system emulators focus on emulating many different systems under one program. 
+
+- 🌐 [Netplay](https://emulation.gametechwiki.com/index.php/Netplay): Multiplayer tool.
+
+- 🌐 [Emulator BIOS files](https://emulation.gametechwiki.com/index.php/Emulator_files) & [Emulator Firmware](https://darthsternie.net/)
 
 - ⭐ [RetroAchievements](https://retroachievements.org/): Achievements for emulators.
 
-[More being added]
+- [MousseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck): Adds mouse support in some emulators.
+
+### Online Emulators
+
+- ⭐ [Telemelt](https://telemelt.com/): Multiplayer Online Emulator.
+
+### ROM Downloading
+
+- 🌐 [ROM Download sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_sites): ROM Downloading site index.
+
+- ⭐ [r/ROMS Megathread](https://r-roms.github.io/)
+
+- ⭐ [Myrient](https://myrient.erista.me/) / [2](https://myrient.mahou.one/)
+
+- ⭐ [No-intro](https://archive.org/details/ni-romsets)
+
+- ⭐ [CrocDB](https://crocdb.net/)
+
+- [CDRomance](https://cdromance.org/)
+
+- [ROM Collection](https://rentry.co/ROM-Collections)
+
+
+
+
 
 
 
