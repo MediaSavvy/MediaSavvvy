@@ -86,6 +86,22 @@
 
 - ⭐ [Torrminatorr](https://forum.torrminatorr.com/)
 
+### Linux Games
+
+- 🌐 [Linux Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)
+
+- ⭐ [protondb](https://www.protondb.com/): Check game compatability.
+
+- ⭐ [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom): Play Windows games on Linux.
+
+- ⭐ [Lutris](https://lutris.net/): Game manager.
+
+- ⭐ [Torrminatorr](https://forum.torrminatorr.com/): Download Linux games.
+
+-  [Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0): Download Linux games / Use a translator.
+
+-  [1337x johncena141](https://1337x.to/user/johncena141/): Linux games (torrents).
+
 ## Emulation 
 
 :::warning Since emulator programs and emulation in general has already been covered by many sources online in detail, it is unnecessary for MediaSavvy to cover them, insteaad those sources will be listed here.
