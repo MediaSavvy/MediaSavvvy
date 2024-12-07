@@ -26,6 +26,8 @@
 
 - [Torrminatorr](https://forum.torrminatorr.com/)
 
+- [AnkerGames](https://ankergames.net/): Preinstalled games.
+
 ### Game Repacks 
 
 - ⭐ [FitGirl Repacks](https://www.fitgirl-repacks.site)
