@@ -6,7 +6,7 @@
 
 - ⭐ [Library Genesis](https://libgen.is/):Books, Comics, Manga.
 
-- ⭐ [Z-Library](https://singlelogin.re/): Books, Comics, Educational.
+- ⭐ [Z-Library](https://z-lib.gs/): Books, Comics, Educational.
 
 - ⭐ [Mobilism](https://forum.mobilism.org/): Books, Audiobooks, Magazines, Newspapers & Comics.
 
