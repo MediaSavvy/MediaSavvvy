@@ -15,7 +15,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 - ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
 - ⭐ [456movies](https://456movie.com/): 4K, 1080p & Lower / Good design / Multi server
-- 
+
 - ⭐ [Freek](https://freek.to) (Previously Binged): 4K, 1080p & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
 - ⭐ [PrimeFlix](https://primeflix-web.vercel.app/): 4K, 1080p & lower / Fast loading speeds / Good Design / Multi Server.
