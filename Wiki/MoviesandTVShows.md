@@ -59,7 +59,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 - ⭐ [Pahe](https://pahe.ink/): Movies & TV & Anime / 4K & Lower / DDL
 
-- ⭐ [Vegas Movies](https://vegamovies.dad/): Movies & TV / 4K & Lower / DDL
+- ⭐ [Vegas Movies](https://vegamovies.st/): Movies & TV / 4K & Lower / DDL
 
 - ⭐ [Movie Paradise](https://movieparadise.org/): Movies & TV / 1080p / [Code](https://rentry.org/he8fhzku) (Unlocks faster file host, 1fichier)
 
